@@ -14,6 +14,6 @@
 * Sistema Operativo Microsoft Windows
 * CodeBlocks
 
-#### Autor
+### Autor
 
 * Francisco Javier Bolívar Lupiáñez
