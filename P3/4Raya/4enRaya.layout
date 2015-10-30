@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="default" />
+	<File name="environment.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="16197" topLine="503" />
+	</File>
+	<File name="environment.h" open="1" top="0" tabpos="4">
+		<Cursor position="805" topLine="20" />
+	</File>
+	<File name="player.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="8613" topLine="269" />
+	</File>
+	<File name="player.h" open="1" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
